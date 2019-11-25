@@ -1,4 +1,4 @@
-import os
+import os, json
 import tarfile
 import time
 import sys
